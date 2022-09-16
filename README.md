@@ -7,3 +7,5 @@ Now I'm focusing on my Unity project, mainly on open source tool for making dial
 As you can see my GitHub is almost empty, but not for long :cowboy_hat_face: :cowboy_hat_face: :cowboy_hat_face: 
 
 ***Contact: mmarusiak.contact@gmail.com***
+
+*PS. During school year expect less activity from me.*
