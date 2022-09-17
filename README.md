@@ -8,4 +8,4 @@ As you can see my GitHub is almost empty, but not for long :cowboy_hat_face: :co
 
 ***Contact: mmarusiak.contact@gmail.com***
 
-*PS. During school year expect less activity from me. (School year lasts from september to middle of june).*
+*PS. During school year expect less activity from me. (School year lasts from september to middle of june). During that time, probably commits will be more about details and small changes (markdowns, comments, etc.), but I will do my best to keep working on my projects.*
