@@ -1,6 +1,6 @@
 ## Welcome, traveller!
 
-**_Indie Game Developer & Student & Big Lego fan_**
+**_Indie Game Developer | Student | Big Lego fan_**
 
 My name is Marcel and I'm _game developer_. Kinda... I didn't make any game _yet_ but I have experience in Unity, Construct 2, JS and a bit of Python  and C++ programming, so let's hope I can call myself that way.
 
