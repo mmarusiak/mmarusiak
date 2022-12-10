@@ -1,4 +1,4 @@
-## Welcome, traveller!
+## Hello there!
 
 **_Indie Game Developer | Student | Big Lego fan_**
 
