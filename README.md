@@ -6,6 +6,6 @@ My name is Marcel and I'm _game developer_. Kinda... I didn't make any game _yet
 
 As you can see my GitHub is almost empty, but not for long :cowboy_hat_face: :cowboy_hat_face: :cowboy_hat_face: 
 
-***Contact: mmarusiak.contact@gmail.com***
+***Contact: marcel.marusiak@gmail.com***
 
 *PS. During school year expect less activity from me. (School year lasts from september to middle of june). During that time, probably commits will be more about details and small changes (markdowns, comments, etc.), but I will do my best to keep working on my projects.*
