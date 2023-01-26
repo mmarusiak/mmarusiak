@@ -6,6 +6,8 @@ My name is Marcel and I'm _game developer_. Kinda... I didn't make any game _yet
 
 As you can see my GitHub is almost empty, but not for long :cowboy_hat_face: :cowboy_hat_face: :cowboy_hat_face: 
 
+Now working on [*Universe Simulator*](https://github.com/mmarusiak/Universe-Simulator).
+
 ***Contact: marcel.marusiak@gmail.com***
 
 *PS. During school year expect less activity from me. (School year lasts from september to middle of june). Anyway I'll do my best to mentain as active as possible during that time.*
