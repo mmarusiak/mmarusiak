@@ -1,10 +1,10 @@
 ## Hello there!
 
-**_C# programmer | Student | Big Lego fan_**
+**_C# / .NET programmer | Student | Big Lego fan_**
 
 My name is Marcel, I'm _C# programmer and game developer_. I've done a lot of personal projects, some of them you can find on my profile. Currenlty I'm looking to gain my first experience in IT, so take a look at my profile and feel free to contact me.
 
-Now working on [*Universe Simulator*](https://github.com/mmarusiak/Universe-Simulator).
+Now working on my personal project called [*Universe Simulator*](https://github.com/mmarusiak/Universe-Simulator).
 
 ***Contact: marcel.marusiak@gmail.com***
 
