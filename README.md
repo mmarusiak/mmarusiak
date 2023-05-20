@@ -1,10 +1,8 @@
 ## Hello there!
 
-**_Indie Game Developer | Student | Big Lego fan_**
+**_C# programmer | Student | Big Lego fan_**
 
-My name is Marcel and I'm _game developer_. Kinda... I didn't make any game _yet_ but I have experience in Unity, C#. Construct 2, JS and a bit of Python  and C++ programming, so let's hope I can call myself that way.
-
-As you can see my GitHub is almost empty, but not for long :cowboy_hat_face: :cowboy_hat_face: :cowboy_hat_face: 
+My name is Marcel, I'm _C# programmer and game developer_. I've done a lot of personal projects, some of them you can find on my profile. Currenlty I'm looking to gain my first experience in IT, so take a look at my profile and feel free to contact me.
 
 Now working on [*Universe Simulator*](https://github.com/mmarusiak/Universe-Simulator).
 
